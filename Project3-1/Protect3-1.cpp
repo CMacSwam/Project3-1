@@ -3,7 +3,7 @@
 * Author: Chase McCluskey
 *Date: 9/12/2024
 
-Description: Computing simple mathematic equations in C++ and using user input
+Description: Computing simple mathematic equations in C++ and using user input 
 *
 */
 
